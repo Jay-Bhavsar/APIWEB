@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy and Tim Lister, CNN",
+            "title": "Battle moves into Kyiv as Ukrainians fight to keep control of their capital - CNN",
+            "description": "War arrived on the streets of the Ukrainian capital city Kyiv Saturday, as the country's military battled to hold back advancing Russian troops in multiple locations, forcing residents to seek shelter amid the sound of explosions and gunfire.",
+            "url": "https://www.cnn.com/2022/02/26/europe/ukraine-russia-invasion-saturday-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225183542-kyiv-smoke-flames-0226-super-tease.jpg",
+            "publishedAt": "2022-02-26T06:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Emma Graham-Harrison, Peter Beaumont, Luke Harding, Julian Borger, Andrew Roth",
+            "title": "Kyiv under siege as Ukrainians try to hold off Russian forces - The Guardian",
+            "description": "Reports of fighting in and around the capital but Russians meet strong resistance, after President Volodymyr Zelenskiy warned of ‘hardest’ night",
+            "url": "https://amp.theguardian.com/world/2022/feb/26/kyiv-fighting-ukraine-russian-forces-capital-zelenskiy-siege-explosions",
+            "urlToImage": null,
+            "publishedAt": "2022-02-26T05:01:00Z",
+            "content": "Explosions and gunfire across Kyiv during Russian night assault video\r\nUkraineReports of fighting in and around the capital but Russians meet strong resistance, after President Volodymyr Zelenskiy wa… [+9843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Round Up: The Reviews Of Valve's Steam Deck Are In - What's It Like Compared To Switch? - Nintendo Life",
+            "description": "The critics deliver their final verdict",
+            "url": "https://www.nintendolife.com/news/2022/02/round-up-the-reviews-of-valves-steam-deck-are-in-whats-it-like-compared-to-switch",
+            "urlToImage": "https://images.nintendolife.com/b5f310df7bee5/1280x720.jpg",
+            "publishedAt": "2022-02-26T04:45:00Z",
+            "content": "Image: Valve\r\nValve's new portable gaming computer the Steam Deck might be \"going after\" a completely different audience but it's still drawn plenty of comparisons to the Nintendo Switch.\r\nThe final … [+4953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "James Harden's 76ers debut was a 'PERFECT STORM' - Jalen Rose | NBA on ESPN - ESPN",
+            "description": "Jalen Rose reacts to James Harden's Philadelphia 76ers debut vs. the Minnesota Timberwolves.✔️Subscribe to ESPN+ http://espnplus.com/youtube✔️ Get the ESPN A...",
+            "url": "https://www.youtube.com/watch?v=lQv8wmHyd7k",
+            "urlToImage": "https://i.ytimg.com/vi/lQv8wmHyd7k/hqdefault.jpg",
+            "publishedAt": "2022-02-26T04:32:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Colleen Long, Michael Balsamo",
+            "title": "Biden taps Ketanji Brown Jackson for Supreme Court: AP Source - Associated Press",
+            "description": "WASHINGTON (AP) — President Joe Biden on Friday nominated federal appeals court Judge Ketanji Brown Jackson  to the Supreme Court, the first Black woman  selected to serve on a court that once declared her race unworthy of citizenship and endorsed American se…",
+            "url": "https://apnews.com/article/Ketanji-Brown-Jackson-biden-supreme-court-nominee-32f77fe08d7cf64af95591668a0aaa41",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5f9faeec40c34aa68a5dc913f60229f5/3000.jpeg",
+            "publishedAt": "2022-02-26T04:04:25Z",
+            "content": "WASHINGTON (AP) President Joe Biden on Friday nominated federal appeals court Judge Ketanji Brown Jackson to the Supreme Court, the first Black woman selected to serve on a court that once declared h… [+8525 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maria Cartaya and Dakin Andone, CNN",
+            "title": "Curtis Reeves, retired police captain who fatally shot man in movie theater, acquitted - CNN",
+            "description": "A Florida jury acquitted retired Florida police captain Curtis Reeves in the shooting death of a man in a movie theater eight years ago.",
+            "url": "https://www.cnn.com/2022/02/25/us/curtis-reeves-murder-trial-jury-deliberations/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225163011-curtis-reeves-trial-0225-super-tease.jpg",
+            "publishedAt": "2022-02-26T03:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin Magazine"
+            },
+            "author": "Dylan LeClair And Sam Rule",
+            "title": "Bitcoin Price And Other Markets React To Russia Ukraine Invasion - Bitcoin Magazine",
+            "description": "Bitcoin short squeeze boosts the price while risk assets trade as if maximum fear and uncertainty are priced in after the declarations of war.",
+            "url": "https://bitcoinmagazine.com/markets/bitcoin-reacts-to-russia-ukraine-invasion",
+            "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTg1MDk0MzA2Njg2OTY5MTEz/ukraine2.png",
+            "publishedAt": "2022-02-26T03:30:00Z",
+            "content": "The below is from a recent edition of the Deep Dive, Bitcoin Magazine's premium markets newsletter. To be among the first to receive these insights and other on-chain bitcoin market analysis straight… [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Mark Feinsand",
+            "title": "Progress on Draft lottery in latest MLB, MLBPA talks - MLB.com",
+            "description": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were signs of progress.\nAccording to a league source, the two si…",
+            "url": "https://www.mlb.com/news/progress-on-draft-lottery-in-latest-mlb-mlbpa-talks",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/dupklmolxepsggidx9s7.jpg",
+            "publishedAt": "2022-02-26T03:22:57Z",
+            "content": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Jussie Smollett Wants Trial Verdict Changed, Cites Jury Selection Issues - TMZ",
+            "description": "Jussie Smollett is asking for a new trial because he has issues with the jury selection process.",
+            "url": "https://www.tmz.com/2022/02/25/jussie-smollett-wants-new-trial-verdict-changed-jury-selection-issues/",
+            "urlToImage": "https://imagez.tmz.com/image/30/16by9/2022/02/26/30435fc358cd48b59402b8d4c1353875_xl.jpg",
+            "publishedAt": "2022-02-26T03:16:00Z",
+            "content": "Jussie Smollett wants a do-over in court, he's asking for a new trial in Chicago and taking issue with the initial jury selection process -- but he'd also willing to accept a not-guilty verdict.\r\nThe… [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alicia Victoria Lozano",
+            "title": "Here are the Russian oligarchs targeted in Biden's sanctions - CNBC",
+            "description": "NBC News reports on Russian oligarchs who are being sanctioned by the U.S., including a former KGB leader, a diamond mine executive and a deputy prime minister.",
+            "url": "https://www.cnbc.com/2022/02/26/here-are-the-russian-oligarchs-targeted-in-bidens-sanctions.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107021328-1645841888810-gettyimages-1235031755-ts10ebfe.jpeg?v=1645841959",
+            "publishedAt": "2022-02-26T03:13:00Z",
+            "content": "Rosneft Board Chairman Igor Sechin and Russia's President Vladimir Putin visit the Konevsky Monastery on Konevets Island on Lake Ladoga.\r\nA former KGB leader, a diamond mine executive and a deputy pr… [+6705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "8 Minutes Of Elden Ring Running On Steam Deck - GameSpot",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db2yQGgWehqs",
+            "urlToImage": null,
+            "publishedAt": "2022-02-26T02:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Pompeo says he is 'rooting' for the Biden administration, despite 'very different worldview' - Fox News",
+            "description": "Former Secretary of State Mike Pompeo told Fox News on Friday that Secretary of State Antony Blinken has consulted with him, and while the two have \"very different worldview,\" they have a \"shared desire\" to make the United States \"strong and great.\"",
+            "url": "https://www.foxnews.com/politics/pompeo-says-he-is-rooting-for-the-biden-administration-despite-very-different-worldview",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Mike-Pompeo.jpg",
+            "publishedAt": "2022-02-26T02:44:24Z",
+            "content": "ORLANDO, Fla. Former Secretary of State Mike Pompeo told Fox News on Friday that Secretary of State Antony Blinken has consulted with him, and while the two have \"very different worldview,\" they have… [+3628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "James Vituscka",
+            "title": "Jason Momoa & Lisa Bonet Are Living Together Again & Working On Repairing Their Marriage - HollywoodLife",
+            "description": "Jason Momoa and Lisa Bonet are calling off their divorce and their kids are 'thrilled,' a friend tells HollywoodLife EXCLUSIVELY.",
+            "url": "https://hollywoodlife.com/2022/02/25/jason-momoa-lisa-bonet-call-off-divorce-living-together/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/02/Jason-Momoa-Lisa-Bonet-Living-Together-Again-Working-On-Repairing-Their-Marriage-After-Split-FTR.jpg",
+            "publishedAt": "2022-02-26T02:20:00Z",
+            "content": "Jason Momoa and Lisa Bonet are calling off their divorce and their kids are ‘thrilled,’ a friend tells HollywoodLife EXCLUSIVELY.\r\nJason Momoa, 42, and Lisa Bonet, 54, have decided to give their marr… [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew Higgins",
+            "title": "At the Polish Border, Tens of Thousands of Ukrainian Refugees - The New York Times",
+            "description": "They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons.",
+            "url": "https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-refugees-1/25ukraine-refugees-1-facebookJumbo.jpg",
+            "publishedAt": "2022-02-26T01:45:02Z",
+            "content": "Just across the border from Lviv, at the railway station in the Polish town of Przemysl, what could well be the last train from Kyiv arrived seven hours late, disgorging around 500 people, mostly wom… [+993 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ukraine Updates for Feb. 22, 2022: US Announces First Sanctions on Russia - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=34361eb4-96d1-11ec-9de3-574e4a64724c&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0yNi9ydXNzaWEtdmV0b2VzLXVuLXJlc29sdXRpb24tYXMtY2hpbmEtYWJzdGFpbnMtdWtyYWluZS11cGRhdGU=",
+            "urlToImage": null,
+            "publishedAt": "2022-02-26T01:27:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Apoorva Mandavilli",
+            "title": "New C.D.C. Guidelines Suggest 70 Percent of Americans Can Stop Wearing Masks - The New York Times",
+            "description": "The agency issued a new set of recommendations intended to help communities live with the virus and get back to normal life.",
+            "url": "https://www.nytimes.com/2022/02/25/health/cdc-mask-guidance.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/25/science/25virus-masks-topart/25virus-masks-topart-facebookJumbo.jpg",
+            "publishedAt": "2022-02-26T01:25:29Z",
+            "content": "It just looked wrong that the whole country was a single shade of red, said Jennifer Nuzzo, an epidemiologist at Johns Hopkins Universitys Bloomberg School of Public Health.\r\nThough a growing number … [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Krystal Hur",
+            "title": "Jim Cramer sees post-pandemic staying power for Etsy and Cash App parent Block - CNBC",
+            "description": "\"While they can have some huge swings, once the volatility's over, I bet they won't easily give back their gains,\" CNBC's Jim Cramer said.",
+            "url": "https://www.cnbc.com/2022/02/25/cramer-sees-post-covid-staying-power-for-etsy-cash-app-parent-block.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106980759-1637936486114-gettyimages-1231356453-ETSY_EARNS.jpeg?v=1643232086",
+            "publishedAt": "2022-02-26T00:01:00Z",
+            "content": "Etsy and Block are Covid-era winners that will continue to thrive even after the pandemic, CNBC's Jim Cramer contended on Friday.\r\n\"You need to understand just how special these stocks are,\" the \"Mad… [+1693 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Hannah Natanson",
+            "title": "Judge calls Thomas Jefferson High admissions changes illegal - The Washington Post",
+            "description": "A federal judge has ruled in the parent-brought lawsuit against Fairfax County Public Schools over changes the its admissions policy for Thomas Jefferson High School.",
+            "url": "https://www.washingtonpost.com/education/2022/02/25/judge-thomas-jefferson-high-admissions/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGX4RUBY2YI6XPDIS2XQ3KXHFA.jpg&w=1440",
+            "publishedAt": "2022-02-25T23:48:20Z",
+            "content": "Hilton wrote that emails and text messages between Board members and high-ranking FCPS officials leave no material dispute that, at least in part, the purpose of the Boards admissions overhaul was to… [+6236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Tom Lehman",
+            "title": "Pennsylvania acting health secretary: State turning a corner, but not quite out of pandemic - WGAL Susquehanna Valley Pa.",
+            "description": "\"Everybody is trying to adjust to what this next period of time looks like,\" acting Health Secretary Keara Klinepeter says.",
+            "url": "https://www.wgal.com/article/pennsylvania-acting-health-secretary-says-state-turning-a-corner-but-not-quite-out-of-pandemic/39233811",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/b1de1374-2296-4bea-9ae3-1da94c6679d6/b1de1374-2296-4bea-9ae3-1da94c6679d6_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+            "publishedAt": "2022-02-25T23:41:00Z",
+            "content": "HARRISBURG, Pa. —Pennsylvania's acting secretary of health says the state is turning a corner with COVID-19, but she's not ready to say we've gone from pandemic to endemic.\r\nKeara Klinepeter said eve… [+1286 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia vetoes U.N. Security action on Ukraine, China abstains - Reuters",
+            "description": "Russia vetoed a draft U.N. Security Council resolution on Friday that would have deplored Moscow's invasion of Ukraine, while China abstained from the vote - a move Western countries view as a win for showing Russia's international isolation.",
+            "url": "https://www.reuters.com/world/russia-vetoes-un-security-action-ukraine-china-abstains-2022-02-25/",
+            "urlToImage": "https://www.reuters.com/resizer/8Hkz9ZTl2ZlJ_iZlaiYLverIzbE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YAZU3L5YIVLGVO5A3BT6Z7Q2CM.jpg",
+            "publishedAt": "2022-02-25T23:34:00Z",
+            "content": "UNITED NATIONS, Feb 25 (Reuters) - Russia vetoed a draft U.N. Security Council resolution on Friday that would have deplored Moscow's invasion of Ukraine, while China abstained from the vote - a move… [+3730 chars]"
+        }
+    ]
+}
